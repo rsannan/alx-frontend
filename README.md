@@ -1,1 +1,1 @@
-# alx-frontend
+# This directory contains front-end designs.
