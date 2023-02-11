@@ -51,7 +51,7 @@ a:hover{
 }
 
 a:active{
-    background-color: var(--color-light-greys);
+    background-color: var(--color-light-grey);
 }
 
 h1,
