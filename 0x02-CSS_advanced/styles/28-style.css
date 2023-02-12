@@ -102,17 +102,6 @@ a:active{
     background-color: var(--color-light-grey);
 }
 
-.header-logo {
-    position: var(--header-logo-position);
-}
-
-.header-logo a {
-    display: var(--header-logo-link-display);
-    position: var(--header-logo-link-position);
-    top: var(--header-logo-link-top);
-    left: var(--header-logo-link-left);
-}
-
 .button{
     display: var(--button-display);
     padding: var(--button-padding);
@@ -309,4 +298,15 @@ ul.row{
 
 header {
     padding: var(--header-padding);
+}
+
+.header-logo {
+    position: var(--header-logo-position);
+}
+
+.header-logo a {
+    display: var(--header-logo-link-display);
+    position: var(--header-logo-link-position);
+    top: var(--header-logo-link-top);
+    left: var(--header-logo-link-left);
 }
